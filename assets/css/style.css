@@ -125,7 +125,7 @@ input[type=reset]:hover {
 
 .bg-img {
 
-    background-image: url("/assets/images/contact.jpg");
+    background-image: url("assets/images/contact.jpg");
     min-height: 33rem;
     background-position: center;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ input[type=reset]:hover {
 
 .bg-img-about {
 
-    background-image: url("/assets/images/about.webp");
+    background-image: url("assets/images/about.webp");
     height: 25rem;
     background-position: center;
     background-repeat: no-repeat;
